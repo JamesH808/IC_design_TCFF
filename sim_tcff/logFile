@@ -1,0 +1,80 @@
+header
+"PSFversion" "1.00"
+"simulator" "HSPICE"
+"version" "T-2022.06-1 linux64"
+"rundate" "20:00:17 05/18/2025 "
+"runtitle" ".temp 25.0                                                        "
+"runtype" "logFile"
+TYPE
+"analysisInst" STRUCT(
+"analysisType" STRING *
+"dataFile" STRING *
+"format" STRING *
+"parent" STRING *
+"sweepVariable" ARRAY ( * ) STRING *
+"description" STRING * )
+VALUE
+"timeSweep" "analysisInst" ( 
+"Transient Analysis"
+"tcff.tr0"
+"PSF"
+""
+()
+"Transient Analysis"
+)
+"summary" "analysisInst" ( 
+"Summary Information"
+"tcff.su0"
+"PSF"
+""
+()
+"Summary Information"
+)
+"timeSweep1" "analysisInst" ( 
+"Transient Analysis"
+"tcff.tr1"
+"PSF"
+""
+()
+"Transient Analysis"
+)
+"tcff.su1" "analysisInst" ( 
+"Summary Information"
+"tcff.su1"
+"PSF"
+""
+()
+"Summary Information"
+)
+"timeSweep2" "analysisInst" ( 
+"Transient Analysis"
+"tcff.tr2"
+"PSF"
+""
+()
+"Transient Analysis"
+)
+"tcff.su2" "analysisInst" ( 
+"Summary Information"
+"tcff.su2"
+"PSF"
+""
+()
+"Summary Information"
+)
+"timeSweep3" "analysisInst" ( 
+"Transient Analysis"
+"tcff.tr3"
+"PSF"
+""
+()
+"Transient Analysis"
+)
+"tcff.su3" "analysisInst" ( 
+"Summary Information"
+"tcff.su3"
+"PSF"
+""
+()
+"Summary Information"
+)
