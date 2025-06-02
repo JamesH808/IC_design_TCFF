@@ -1,0 +1,20 @@
+HEADER
+"PSFversion" "1.00"
+"simulator" "HSPICE"
+"version" "T-2022.06-1 linux64"
+"rundate" "12:25:54 05/22/2025"
+"runtitle" ".temp 25.0                                                                                                              "
+"runtype" "Summary Information"
+"temperature" "2.500e+01"
+"op point time" "0.04"
+"op point iterations" "136"
+"transient time" "2.63"
+"transient iterations" "31756"
+"total cpu time" "2.70"
+"node value" "invalid"
+"operating point" "invalid"
+"ac analysis" "invalid"
+"dc sweep" "invalid"
+"transient analysis" "complete"
+TRAILER
+END

@@ -1,0 +1,33 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "T-2022.06-1 linux64"
+* "format" "HSP"
+* "rundate" "12:25:51 05/22/2025 "
+* "netlist" "tcff.sp "
+* "runtitle" ".temp 25.0"
+* time =  0.000e+00       
+* temperature =  2.500e+01       
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.000e-12       
+.nodeset
++ clk = 1.209e-04       
++ clkin = 0.000e+00       
++ clkmid = 1.000e-00       
++ d = 1.211e-04       
++ din = 0.000e+00       
++ dmid = 1.000e-00       
++ net1 = 9.996e-01       
++ net10 = 9.997e-01       
++ net3 = 1.000e-00       
++ net4 = 9.996e-01       
++ net5 = 1.803e-04       
++ net6 = 9.995e-01       
++ net7 = 2.330e-04       
++ net8 = 2.265e-04       
++ net9 = 1.737e-04       
++ q = 1.412e-04       
++ qload = 1.000e-00       
++ vdd = 1.000e+00       
++ vdd1 = 1.000e+00       
++ vdd2 = 1.000e+00       
+***   END: Saved Operating Point ***                     

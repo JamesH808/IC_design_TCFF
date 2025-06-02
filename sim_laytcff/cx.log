@@ -1,0 +1,16 @@
+#Copyright (c) 1988-2014 Synopsys, Inc.
+#
+#	CustomExplorer: Version I-2013.12-SP2
+#	Linux RHEL64 v4.8 May 21 2014 13:13:50
+#
+#Launched at May 22 2025 12:26:03 (PID:18851)
+#
+cx_load_preference /data/synopsys/cx/etc/.cxrc
+cx_select_window {Console} 
+cx_init_file /data/synopsys/cx/etc/.cxinit
+#Loading initial file "/data/synopsys/cx/etc/.cxinit".
+#*ERROR* Cannot open tcl file "/data/synopsys/cx/etc/.cxinit" for reading!!!
+#End loading initial file "/data/synopsys/cx/etc/.cxinit".
+#WaveView opened.
+#WaveView closed.
+#CustomExplorer closed.
